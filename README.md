@@ -4,6 +4,8 @@ A WhatsApp like application for Android with various WhatsApp features
 such as sending texts, media and voice recording messages. Some features
 will come at a later stage.
 
+Original code: https://github.com/Lmakgae/WApp-Clone
+
 ## About the application
 
 The application heavily relies on
